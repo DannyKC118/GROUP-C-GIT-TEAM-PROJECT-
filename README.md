@@ -1,2 +1,9 @@
 # GROUP-C-GIT-TEAM-PROJECT-
-Git Practice 
+This is our Git Practice project 
+
+Members 
+Lead - Daniel
+Obed
+Obi
+Naomi 
+Nonso
