@@ -8,5 +8,6 @@ Features:
 - List of found items
 - How to report a lost item
 - Contact information 
+- How to claim an item 
 
 Team Members: Daniel,Obed,Obi,Naomi,Nonso, El Nonso
