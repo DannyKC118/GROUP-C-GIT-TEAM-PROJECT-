@@ -1,9 +1,12 @@
 # GROUP-C-GIT-TEAM-PROJECT-
-This is our Git Practice project 
+CAMPUS LOST AND FOUND SYSTEM 
 
-Members 
-Lead - Daniel
-Obed
-Obi
-Naomi 
-Nonso
+This is our Git Practice project and it helps students report and find lost items on campus 
+
+Features:
+- List of lost items
+- List of found items
+- How to report a lost item
+- Contact information 
+
+Team Members: Daniel,Obed,Obi,Naomi,Nonso
