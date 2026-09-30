@@ -9,4 +9,4 @@ Features:
 - How to report a lost item
 - Contact information 
 
-Team Members: Daniel,Obed,Obi,Naomi,Nonso
+Team Members: Daniel,Obed,Obi,Naomi,Nonso, El Nonso
